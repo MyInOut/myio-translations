@@ -88,5 +88,16 @@
         "submit_button": "@:common.submit",
         "wrong_code": "Incorrect code! Try again",
         "resend_countdown": "Re-send code in {countdown}"
+    },
+    "home": {
+        "overview": {
+            "title": "Overview",
+            "inflow": "Inflow",
+            "outflow": "Outflow"
+        },
+        "pocket": {
+            "title": "Pocket",
+            "add_pocket": "Add Pocket"
+        }
     }
 }
