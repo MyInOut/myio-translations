@@ -46,7 +46,7 @@
         "sign_in_button": "@:common.sign_in",
         "sign_up_button": "@:common.sign_up",
         "social_sign_in": "Atau masuk dengan",
-        "no_account": "Belum punya akun? {signup}",
+        "no_account": "Belum punya akun? {sign_up}",
         "footer": "Dengan masuk, Anda menyetujui {terms_condition} dan {privacy_policy}"
     },
     "registration": {
